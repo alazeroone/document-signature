@@ -1,0 +1,137 @@
+<mxfile host="app.diagrams.net" modified="2024-06-07T12:27:30.982Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="-rHpsqhDM291RD5vVX_t" version="24.5.2" type="device">
+  <diagram name="Page-1" id="n1U8AWd6J3AGq1-1-G9S">
+    <mxGraphModel dx="2214" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mtu1HccIcMna1YvJ38mV-37" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="290" width="1110" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-20" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="870" width="740" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mtu1HccIcMna1YvJ38mV-1" target="mtu1HccIcMna1YvJ38mV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-16" value="Service Type" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mtu1HccIcMna1YvJ38mV-5">
+          <mxGeometry y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="mtu1HccIcMna1YvJ38mV-1" target="mtu1HccIcMna1YvJ38mV-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="560" as="sourcePoint" />
+            <mxPoint x="40" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-1" value="Helix PLM&lt;div&gt;Document Signature&lt;/div&gt;&lt;div&gt;Service&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Database_for_PostgreSQL_servers.svg;" vertex="1" parent="1">
+          <mxGeometry x="230" y="341.06" width="60" height="78.95" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" vertex="1" parent="1">
+          <mxGeometry x="390" y="350" width="70" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mtu1HccIcMna1YvJ38mV-4" target="mtu1HccIcMna1YvJ38mV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mtu1HccIcMna1YvJ38mV-4" target="mtu1HccIcMna1YvJ38mV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-36" value="Send Documents for&lt;div&gt;for Signature&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mtu1HccIcMna1YvJ38mV-9">
+          <mxGeometry x="-0.3111" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mtu1HccIcMna1YvJ38mV-4" target="mtu1HccIcMna1YvJ38mV-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-4" value="Digital&lt;div&gt;Signing&lt;/div&gt;&lt;div&gt;services&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-6" value="Others&lt;div&gt;Services( AdobeSign)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-8" value="Docusign" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="mtu1HccIcMna1YvJ38mV-8" target="mtu1HccIcMna1YvJ38mV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-17" value="&lt;div&gt;Signature&lt;/div&gt;Event Notification&lt;div&gt;to Webhook&lt;/div&gt;&lt;div&gt;through&lt;/div&gt;&lt;div&gt;Docusign&lt;/div&gt;&lt;div&gt;Connect&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mtu1HccIcMna1YvJ38mV-13">
+          <mxGeometry x="0.2381" y="-2" relative="1" as="geometry">
+            <mxPoint x="-2" y="37" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/Logic_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="740" y="430" width="80" height="62.09" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.553;entryY=1.06;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="mtu1HccIcMna1YvJ38mV-1" target="mtu1HccIcMna1YvJ38mV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-25" value="Signature Transaction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mtu1HccIcMna1YvJ38mV-14">
+          <mxGeometry x="0.5172" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="mtu1HccIcMna1YvJ38mV-1" target="mtu1HccIcMna1YvJ38mV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-27" value="Documents" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mtu1HccIcMna1YvJ38mV-15">
+          <mxGeometry x="0.3373" y="6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-18" value="Credentialing" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="mtu1HccIcMna1YvJ38mV-22" target="mtu1HccIcMna1YvJ38mV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-22" value="Contracting" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="mtu1HccIcMna1YvJ38mV-1" target="mtu1HccIcMna1YvJ38mV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-38" value="Update Event&lt;div&gt;Details&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mtu1HccIcMna1YvJ38mV-24">
+          <mxGeometry x="0.4375" y="-16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-28" value="Helix&lt;div&gt;eSignature Service&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-30" value="External Services" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1090" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1.013;entryY=0.564;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="mtu1HccIcMna1YvJ38mV-6" target="mtu1HccIcMna1YvJ38mV-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="1080" />
+              <mxPoint x="880" y="1080" />
+              <mxPoint x="880" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-33" value="&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Event%20Notification%26lt%3Bdiv%26gt%3Bto%20Webhook%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22782%22%20y%3D%22823%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mtu1HccIcMna1YvJ38mV-32">
+          <mxGeometry x="0.6096" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-34" value="&lt;div&gt;Signature&lt;/div&gt;Event Notification&lt;div&gt;to Webhook&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mtu1HccIcMna1YvJ38mV-32">
+          <mxGeometry x="0.625" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-35" value="Public Webhook Listner" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="390" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mtu1HccIcMna1YvJ38mV-39" value="Infosys Azure&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
