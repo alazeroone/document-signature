@@ -4,10 +4,10 @@ package com.poc.project.documentsignature.dto;
 import lombok.Data;
 
 @Data
-public class DocumentDTO {
-    private String documentId;
+public class SignerDTO {
+    private String signerId;
     private Integer requestId;
     private String name;
-    private String blobUrl;
+    private String email;
     private String status;
 }

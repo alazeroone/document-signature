@@ -7,5 +7,15 @@ public interface SignatureService {
     void sendDocumentForSignature(SignatureRequest request);
     String checkDocumentStatus(String documentId);
     Document retrieveSignedDocument(String documentId);
+
+    void sendDocumentForSigning();
+
+    void addDocumentToRequest();
+
+    void removeDocumentFromRequest();
+
+    void addSignerToRequest();
+
+    void removeSignerFromRequest();
 }
 

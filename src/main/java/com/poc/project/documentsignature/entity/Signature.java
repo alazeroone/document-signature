@@ -7,20 +7,22 @@ import java.sql.Timestamp;
 
 @Entity
 @Data
-public class Document {
+public class Signature {
     @Id
-    @Column(name = "document_id", length = 255)
-    private String documentId;
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "signature_id")
+    private Integer signatureId;
 
     @Column(name = "request_id")
     private Integer requestId;
 
-    private String name;
-
-    @Column(name = "blob_url", columnDefinition = "TEXT")
-    private String blobUrl;
+    @Column(name = "signer_id", length = 255)
+    private String signerId;
 
     private String status;
+
+    @Column(name = "signed_at")
+    private Timestamp signedAt;
 
     @Column(name = "created_at")
     private Timestamp createdAt;
@@ -31,4 +33,8 @@ public class Document {
     @ManyToOne
     @JoinColumn(name = "request_id", insertable = false, updatable = false)
     private SignatureRequest signatureRequest;
+
+    @ManyToOne
+    @JoinColumn(name = "signer_id", insertable = false, updatable = false)
+    private Signer signer;
 }

@@ -7,19 +7,16 @@ import java.sql.Timestamp;
 
 @Entity
 @Data
-public class Document {
+public class Signer {
     @Id
-    @Column(name = "document_id", length = 255)
-    private String documentId;
+    @Column(name = "signer_id", length = 255)
+    private String signerId;
 
     @Column(name = "request_id")
     private Integer requestId;
 
     private String name;
-
-    @Column(name = "blob_url", columnDefinition = "TEXT")
-    private String blobUrl;
-
+    private String email;
     private String status;
 
     @Column(name = "created_at")
